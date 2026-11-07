@@ -3,7 +3,7 @@
 컴퓨터공학을 전공하는 2학년 서비스 개발자입니다.
 프론트엔드와 백엔드를 오가며 팀 프로젝트와 해커톤으로 서비스를 만들어 왔습니다.
 
-[Portfolio](https://d39sqbzqfq296f.cloudfront.net/) · [Velog](https://velog.io/@dlgkdms4660/posts) · [Email](mailto:dlgkdms4660@gmail.com) · dlgkdms4660@gmail.com
+[Portfolio](https://haeun.dev/) · [Velog](https://velog.io/@dlgkdms4660/posts) · [Email](mailto:dlgkdms4660@gmail.com) · dlgkdms4660@gmail.com
 
 <br>
 
